@@ -1,5 +1,12 @@
 ## This is a set of functions that are able to cache the potentially
 ## time-consuming computations of the inverse of matrices.
+##
+## I solved this assignment with the help of DanieleP's tutorial linked to 
+## from the R Programming community site, and which is found at:
+## https://github.com/DanieleP/PA2-clarifying_instructions
+## 
+## For the desricptions of the functions I adapted Dr Peng's descriptions of
+## the example functions.
 
 ## This function returns a list of functions that can create a matrix object
 ## and cache its inverse.
